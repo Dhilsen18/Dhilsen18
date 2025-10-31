@@ -25,9 +25,8 @@
 
 <div align="center">
 
-## 🎯 Sobre Mí
-
 </div>
+## 🎯 Sobre Mí
 
 <div align="justify" style="max-width: 800px; margin: 0 auto; padding: 20px; background: linear-gradient(135deg, rgba(139, 92, 246, 0.1) 0%, rgba(255, 107, 157, 0.1) 100%); border-radius: 15px; border-left: 4px solid #8B5CF6;">
 
