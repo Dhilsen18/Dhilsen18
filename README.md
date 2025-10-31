@@ -1,34 +1,10 @@
 <div align="center">
   
   <!-- Typing animation -->
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hola!+Soy+Dhilsen+Mallqui+👋;+Software+Engineering+Student+💻;+Desarrollador+Full+Stack+🚀)
-  <img width="1760" height="872" alt="LogoAvatarrr" src="https://github.com/user-attachments/assets/909a2ed0-d5aa-4127-bc56-47c3fd1c204a" />
-
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hola!+Soy+Dhilsen+Mallqui+👋;+Software+Engineering+Student+💻;+Desarrollador+Full+Stack+🚀&color=8B5CF6&background=0D111700)
   
   <!-- Banner personalizado -->
-  <!-- Usa la URL raw de GitHub o una URL externa (Imgur, ImgBB, etc.) -->
   <img src="https://raw.githubusercontent.com/Dhilsen18/Dhilsen18/main/assets/LogoAvatarrr.png" width="100%" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3); margin-top: 20px; margin-bottom: 20px;" alt="DhilsenDevs Banner"/>
-  
-  <!-- 
-    OPCIÓN 1: Si subes la imagen al repo, usa esta URL raw:
-    https://raw.githubusercontent.com/Dhilsen18/Dhilsen18/main/assets/LogoAvatarrr.png
-    
-    OPCIÓN 2: Si prefieres usar un servicio externo (Imgur, ImgBB), reemplaza la URL con:
-    <img src="TU_URL_EXTERNA_AQUI" width="100%" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3); margin-top: 20px; margin-bottom: 20px;" alt="DhilsenDevs Banner"/>
-  -->
-  
-  <!-- 
-    INSTRUCCIONES PARA AGREGAR TU BANNER:
-    
-    Opción 1: Sube tu imagen del banner a una carpeta 'assets' en tu repo y usa:
-    <img src="./assets/banner.png" width="100%" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3); margin-top: 20px; margin-bottom: 20px;" alt="DhilsenDevs Banner"/>
-    
-    Opción 2: Usa una URL externa (imgur, imgbb, etc.):
-    <img src="TU_URL_DEL_BANNER_AQUI" width="100%" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3); margin-top: 20px; margin-bottom: 20px;" alt="DhilsenDevs Banner"/>
-    
-    NOTA: El width="100%" hace que el banner se ajuste al ancho del contenedor.
-    Puedes cambiarlo a un ancho fijo como width="800" si lo prefieres.
-  -->
   
   <h3>🎓 Estudiante de Ingeniería de Software</h3>
   <h3>🎭 Bailarín | 💻 Desarrollador Full Stack</h3>
@@ -55,17 +31,7 @@
 
 <div align="justify">
   
-  👋 ¡Hola! Soy **Dhilsen Mallqui**, un apasionado estudiante de **Ingeniería de Software** en la **Universidad Peruana de Ciencias Aplicadas (UPC)**. 
-
-  🎯 Mi pasión se centra en el **desarrollo frontend** y la creación de **soluciones tecnológicas centradas en el usuario**. Creo firmemente que la tecnología debe ser accesible, intuitiva y resolver problemas reales de manera eficiente.
-
-  🚀 Como desarrollador **Full Stack**, disfruto trabajando tanto en la interfaz de usuario como en la arquitectura que la respalda. Mi enfoque se centra en escribir código limpio, mantener las mejores prácticas y estar siempre al día con las últimas tendencias tecnológicas.
-
-  📚 Estoy en **constante aprendizaje** de nuevas herramientas, frameworks y metodologías de desarrollo. Cada proyecto es una oportunidad para crecer y mejorar mis habilidades técnicas. Disfruto especialmente explorando nuevas formas de mejorar la experiencia del usuario y optimizar el rendimiento de las aplicaciones.
-
-  🎭 Además de mi vida como desarrollador, también soy **bailarín**, una pasión que complementa perfectamente mi trabajo en tecnología. La disciplina del baile me ha enseñado que cada movimiento cuenta, igual que cada línea de código, y que la dedicación constante es la clave para lograr resultados excepcionales.
-
-  💡 Mi objetivo es combinar mis habilidades técnicas con mi creatividad para desarrollar aplicaciones que no solo funcionen bien, sino que también impacten positivamente en la vida de las personas.
+  👋 Soy **Dhilsen Mallqui**, estudiante de **Ingeniería de Software** en la **Universidad Peruana de Ciencias Aplicadas (UPC)**. Mi pasión se centra en el **desarrollo frontend** y la creación de **soluciones tecnológicas centradas en el usuario**. Como desarrollador **Full Stack**, disfruto trabajando tanto en interfaces de usuario intuitivas como en la arquitectura que las respalda, siempre en constante aprendizaje de nuevas herramientas y metodologías. Además de mi vida como desarrollador, también soy **bailarín**, una pasión que complementa mi trabajo en tecnología enseñándome que cada movimiento cuenta, igual que cada línea de código.
 
 </div>
 
