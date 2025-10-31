@@ -1,15 +1,15 @@
 <div align="center">
 
-<h1 style="color: #8B5CF6; font-size: 2.5em; margin-bottom: 10px; font-weight: bold;">¡Hola, soy Dhilsen Mallqui! 👋</h1>
+<h1 style="color: #8B5CF6; font-size: 2.5em; margin-bottom: 10px; font-weight: bold;">Hola 👋, soy Dhilsen Mallqui</h1>
 
 <!-- Banner -->
 <img width="100%" src="https://github.com/user-attachments/assets/b7ad2e64-d041-4b40-abe3-510619be3825" alt="DhilsenDevs Banner" style="border-radius: 20px; margin-top: 20px; box-shadow: 0 10px 40px rgba(139, 92, 246, 0.3);"/>
 
 <div style="margin-top: 30px; line-height: 2.5;">
   
-  <h3 style="color: #8B5CF6; margin: 10px 0;">🎓 Estudiante de Ingeniería de Software</h3>
-  <h3 style="color: #FF6B9D; margin: 10px 0;">🎭 Bailarín</h3>
-  <h3 style="color: #00D9FF; margin: 10px 0;">💻 Desarrollador Full Stack</h3>
+  <h3 style="color: #8B5CF6; margin: 10px 0; font-weight: 400;">🎓 Estudiante de Ingeniería de Software</h3>
+  <h3 style="color: #FF6B9D; margin: 10px 0; font-weight: 400;">🎭 Bailarín</h3>
+  <h3 style="color: #00D9FF; margin: 10px 0; font-weight: 400;">💻 Desarrollador Full Stack</h3>
   
 </div>
 
