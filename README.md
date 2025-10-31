@@ -5,18 +5,18 @@
 <!-- Banner -->
 <img width="100%" src="https://github.com/user-attachments/assets/b7ad2e64-d041-4b40-abe3-510619be3825" alt="DhilsenDevs Banner" style="border-radius: 20px; margin-top: 20px; box-shadow: 0 10px 40px rgba(139, 92, 246, 0.3);"/>
 
-<div style="margin-top: 30px;">
+<div style="margin-top: 30px; line-height: 2.5;">
   
-  <img src="https://img.shields.io/badge/🎓_ESTUDIANTE_DE_INGENIERÍA_DE_SOFTWARE-8B5CF6?style=for-the-badge&logoColor=white" alt="Student"/>
-  <img src="https://img.shields.io/badge/🎭_BAILARÍN-FF6B9D?style=for-the-badge&logoColor=white" alt="Dancer"/>
-  <img src="https://img.shields.io/badge/💻_DESARROLLADOR_FULL_STACK-00D9FF?style=for-the-badge&logoColor=white" alt="Developer"/>
+  <h3 style="color: #8B5CF6; margin: 10px 0;">🎓 Estudiante de Ingeniería de Software</h3>
+  <h3 style="color: #FF6B9D; margin: 10px 0;">🎭 Bailarín</h3>
+  <h3 style="color: #00D9FF; margin: 10px 0;">💻 Desarrollador Full Stack</h3>
   
 </div>
 
 <div style="margin-top: 25px;">
-  <a href="https://portfolioo-dhilsen.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
+  <h3>
+    <a href="https://portfolioo-dhilsen.vercel.app" target="_blank" style="color: #FF6B6B; text-decoration: none; border-bottom: 2px solid #FF6B6B; padding-bottom: 5px;">🌐 Portfolio</a>
+  </h3>
 </div>
 
 </div>
