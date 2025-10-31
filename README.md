@@ -2,6 +2,8 @@
   
   <!-- Typing animation -->
   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hola!+Soy+Dhilsen+Mallqui+👋;+Software+Engineering+Student+💻;+Desarrollador+Full+Stack+🚀)
+  <img width="1760" height="872" alt="LogoAvatarrr" src="https://github.com/user-attachments/assets/909a2ed0-d5aa-4127-bc56-47c3fd1c204a" />
+
   
   <!-- Banner personalizado -->
   <!-- Usa la URL raw de GitHub o una URL externa (Imgur, ImgBB, etc.) -->
