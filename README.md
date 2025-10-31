@@ -23,8 +23,6 @@
 
 <br/>
 
-<hr style="border: none; border-top: 1px solid #e1e4e8; margin: 20px 0 10px 0;"/>
-
 <div align="center">
 
 ## 🎯 Sobre Mí
