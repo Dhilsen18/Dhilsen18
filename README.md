@@ -1,7 +1,6 @@
 <div align="center">
   
-  <!-- Typing animation -->
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hola!+Soy+Dhilsen+Mallqui+👋;+Software+Engineering+Student+💻;+Desarrollador+Full+Stack+🚀&color=8B5CF6&background=0D111700)
+  <h1 style="color: #8B5CF6; font-size: 2.5em; margin-bottom: 10px;">Hola, soy Dhilsen Mallqui 👋</h1>
   
   <!-- Banner personalizado -->
   <img width="1760" height="872" alt="LogoAvatarrr" src="https://github.com/user-attachments/assets/b7ad2e64-d041-4b40-abe3-510619be3825" />
