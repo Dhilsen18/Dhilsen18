@@ -7,7 +7,7 @@
 
   
   <h3>🎓 Estudiante de Ingeniería de Software</h3>
-  <h3>🎭 Bailarín | 💻 Desarrollador Full Stack</h3>
+  <h3>🎭 Bailarín | 💻 Desarrollador Frontend</h3>
   
   <!-- Botones de contacto -->
   <p>
