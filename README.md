@@ -4,7 +4,12 @@
   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hola!+Soy+Dhilsen+Mallqui+👋;+Software+Engineering+Student+💻;+Desarrollador+Full+Stack+🚀)
   
   <!-- Banner personalizado -->
-  <img src="./assets/LogoAvatarrr.png" width="100%" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3); margin-top: 20px; margin-bottom: 20px;" alt="DhilsenDevs Banner"/>
+  <img src="assets/LogoAvatarrr.png" width="100%" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3); margin-top: 20px; margin-bottom: 20px;" alt="DhilsenDevs Banner"/>
+  
+  <!-- 
+    Si la imagen no se ve en GitHub, prueba con esta ruta absoluta (reemplaza USERNAME y REPO):
+    <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/LogoAvatarrr.png" width="100%" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3); margin-top: 20px; margin-bottom: 20px;" alt="DhilsenDevs Banner"/>
+  -->
   
   <!-- 
     INSTRUCCIONES PARA AGREGAR TU BANNER:
