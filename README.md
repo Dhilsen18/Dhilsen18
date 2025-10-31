@@ -23,7 +23,7 @@
 
 <br/>
 
-<hr style="border: none; border-top: 2px solid #e1e4e8; margin: 30px 0;"/>
+<hr style="border: none; border-top: 1px solid #e1e4e8; margin: 20px 0 10px 0;"/>
 
 <div align="center">
 
@@ -39,12 +39,11 @@
 
 <br/>
 
-<hr style="border: none; border-top: 2px solid #e1e4e8; margin: 30px 0;"/>
+<hr style="border: none; border-top: 1px solid #e1e4e8; margin: 20px 0 10px 0;"/>
 
 <div align="center">
 
 ## 🛠️ Tech Stack
-
 ### 💻 Programming Languages
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
@@ -98,7 +97,7 @@
 
 <br/>
 
-<hr style="border: none; border-top: 2px solid #e1e4e8; margin: 30px 0;"/>
+<hr style="border: none; border-top: 1px solid #e1e4e8; margin: 20px 0 10px 0;"/>
 
 <div align="center">
 
