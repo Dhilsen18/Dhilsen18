@@ -4,7 +4,8 @@
   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hola!+Soy+Dhilsen+Mallqui+👋;+Software+Engineering+Student+💻;+Desarrollador+Full+Stack+🚀&color=8B5CF6&background=0D111700)
   
   <!-- Banner personalizado -->
-  <img src="https://raw.githubusercontent.com/Dhilsen18/Dhilsen18/main/assets/LogoAvatarrr.png" width="100%" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3); margin-top: 20px; margin-bottom: 20px;" alt="DhilsenDevs Banner"/>
+  <img width="1760" height="872" alt="LogoAvatarrr" src="https://github.com/user-attachments/assets/b7ad2e64-d041-4b40-abe3-510619be3825" />
+
   
   <h3>🎓 Estudiante de Ingeniería de Software</h3>
   <h3>🎭 Bailarín | 💻 Desarrollador Full Stack</h3>
