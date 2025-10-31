@@ -3,17 +3,20 @@
   <!-- Typing animation -->
   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hola!+Soy+Dhilsen+Mallqui+👋;+Software+Engineering+Student+💻;+Desarrollador+Full+Stack+🚀)
   
-  <!-- Imagen de perfil - Puedes cambiar la URL por tu imagen personalizada -->
-  <img src="https://github.com/Dhilsen18.png" width="300" style="border-radius: 50%; border: 5px solid #8B5CF6; box-shadow: 0 0 20px rgba(139, 92, 246, 0.5); margin-top: 20px;" alt="Dhilsen Mallqui"/>
+  <!-- Banner personalizado -->
+  <img src="./assets/LogoAvatarrr.png" width="100%" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3); margin-top: 20px; margin-bottom: 20px;" alt="DhilsenDevs Banner"/>
   
   <!-- 
-    INSTRUCCIONES PARA AGREGAR TU PROPIA IMAGEN:
+    INSTRUCCIONES PARA AGREGAR TU BANNER:
     
-    Opción 1: Sube tu imagen a una carpeta 'assets' en tu repo y usa:
-    <img src="./assets/profile.png" width="300" style="border-radius: 50%; border: 5px solid #8B5CF6; box-shadow: 0 0 20px rgba(139, 92, 246, 0.5); margin-top: 20px;" alt="Dhilsen Mallqui"/>
+    Opción 1: Sube tu imagen del banner a una carpeta 'assets' en tu repo y usa:
+    <img src="./assets/banner.png" width="100%" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3); margin-top: 20px; margin-bottom: 20px;" alt="DhilsenDevs Banner"/>
     
     Opción 2: Usa una URL externa (imgur, imgbb, etc.):
-    <img src="TU_URL_AQUI" width="300" style="border-radius: 50%; border: 5px solid #8B5CF6; box-shadow: 0 0 20px rgba(139, 92, 246, 0.5); margin-top: 20px;" alt="Dhilsen Mallqui"/>
+    <img src="TU_URL_DEL_BANNER_AQUI" width="100%" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3); margin-top: 20px; margin-bottom: 20px;" alt="DhilsenDevs Banner"/>
+    
+    NOTA: El width="100%" hace que el banner se ajuste al ancho del contenedor.
+    Puedes cambiarlo a un ancho fijo como width="800" si lo prefieres.
   -->
   
   <h3>🎓 Estudiante de Ingeniería de Software</h3>
@@ -35,43 +38,24 @@
 
 <div align="center">
   
-  ## 📊 GitHub Analytics
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhilsen18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhilsen18&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  
-  <br/>
-  
-  ![GitHub Streak](https://streak-stats.demolab.com?user=Dhilsen18&theme=tokyonight&hide_border=true&background=0D1117)
-  
-  <br/>
-  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dhilsen18&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+  ## 📖 Sobre Mí
   
 </div>
 
----
+<div align="justify">
+  
+  👋 ¡Hola! Soy **Dhilsen Mallqui**, un apasionado estudiante de **Ingeniería de Software** en la **Universidad Peruana de Ciencias Aplicadas (UPC)**. 
 
-<div align="center">
-  
-  ## 📈 GitHub Activity Graph
-  
-  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhilsen18&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-</div>
+  🎯 Mi pasión se centra en el **desarrollo frontend** y la creación de **soluciones tecnológicas centradas en el usuario**. Creo firmemente que la tecnología debe ser accesible, intuitiva y resolver problemas reales de manera eficiente.
 
----
+  🚀 Como desarrollador **Full Stack**, disfruto trabajando tanto en la interfaz de usuario como en la arquitectura que la respalda. Mi enfoque se centra en escribir código limpio, mantener las mejores prácticas y estar siempre al día con las últimas tendencias tecnológicas.
 
-<div align="center">
-  
-  ## 🐍 Mis Contribuciones
-  
-  <!-- 
-    NOTA: Para que la serpiente funcione, necesitas crear un repo llamado "Dhilsen18/Dhilsen18" 
-    y configurar un workflow de GitHub Actions. Por ahora se mostrará solo el gráfico de contribuciones.
-  -->
-  ![Snake animation](https://github.com/Dhilsen18/Dhilsen18/blob/output/github-contribution-grid-snake.svg)
-  
+  📚 Estoy en **constante aprendizaje** de nuevas herramientas, frameworks y metodologías de desarrollo. Cada proyecto es una oportunidad para crecer y mejorar mis habilidades técnicas. Disfruto especialmente explorando nuevas formas de mejorar la experiencia del usuario y optimizar el rendimiento de las aplicaciones.
+
+  🎭 Además de mi vida como desarrollador, también soy **bailarín**, una pasión que complementa perfectamente mi trabajo en tecnología. La disciplina del baile me ha enseñado que cada movimiento cuenta, igual que cada línea de código, y que la dedicación constante es la clave para lograr resultados excepcionales.
+
+  💡 Mi objetivo es combinar mis habilidades técnicas con mi creatividad para desarrollar aplicaciones que no solo funcionen bien, sino que también impacten positivamente en la vida de las personas.
+
 </div>
 
 ---
