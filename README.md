@@ -1,25 +1,21 @@
 <div align="center">
 
-<!-- Typing animation -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hola+%F0%9F%91%8B%2C+soy+Dhilsen+Mallqui;Software+Engineering+Student;Desarrollador+Full+Stack&color=8B5CF6&background=0D111700)
+<h1 style="color: #8B5CF6; font-size: 2.5em; margin-bottom: 10px; font-weight: bold;">Hola 👋, soy Dhilsen Mallqui</h1>
 
 <!-- Banner -->
 <img width="100%" src="https://github.com/user-attachments/assets/b7ad2e64-d041-4b40-abe3-510619be3825" alt="DhilsenDevs Banner" style="border-radius: 20px; margin-top: 20px; box-shadow: 0 10px 40px rgba(139, 92, 246, 0.3);"/>
 
 <div style="margin-top: 30px;">
   
-  <img src="https://img.shields.io/badge/🎓_Estudiante_de_Ingeniería_de_Software-8B5CF6?style=for-the-badge&logoColor=white" alt="Student"/>
-  <img src="https://img.shields.io/badge/🎭_Bailarín-FF6B9D?style=for-the-badge&logoColor=white" alt="Dancer"/>
-  <img src="https://img.shields.io/badge/💻_Desarrollador_Full_Stack-00D9FF?style=for-the-badge&logoColor=white" alt="Developer"/>
+  <img src="https://img.shields.io/badge/🎓_ESTUDIANTE_DE_INGENIERÍA_DE_SOFTWARE-8B5CF6?style=for-the-badge&logoColor=white" alt="Student"/>
+  <img src="https://img.shields.io/badge/🎭_BAILARÍN-FF6B9D?style=for-the-badge&logoColor=white" alt="Dancer"/>
+  <img src="https://img.shields.io/badge/💻_DESARROLLADOR_FULL_STACK-00D9FF?style=for-the-badge&logoColor=white" alt="Developer"/>
   
 </div>
 
 <div style="margin-top: 25px;">
-  <a href="https://portfolio-dhilsen.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:dhilsenamv@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/📧_Email-4285F4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://portfolioo-dhilsen.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
 
@@ -106,40 +102,6 @@
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhilsen18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhilsen18&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6"/>
-
-</div>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Dhilsen18&theme=tokyonight&hide_border=true&background=0D1117&fire=8B5CF6&ring=8B5CF6&currStreakLabel=8B5CF6)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dhilsen18&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&title_color=8B5CF6&icon_color=8B5CF6)
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## 📈 Activity Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhilsen18&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FF6B9D)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
 ## 🌐 Connect With Me
 
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
@@ -158,6 +120,9 @@
 </a>
 <a href="https://discord.gg/bXc7x63d" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+<a href="mailto:dhilsenamv@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-4285F4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
