@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 style="color: #1B4F72; font-size: 2.5em; margin-bottom: 10px; font-weight: bold;">¡Hola, soy Dhilsen Mallqui! 👋</h1>
+<h1 style="color: #0056b3; font-size: 2.5em; margin-bottom: 10px; font-weight: bold;">¡Hola, soy Dhilsen Mallqui! 👋</h1>
 
 <!-- Banner -->
 <img width="100%" src="Buho_Portada_Dhilsen.png" alt="DhilsenDev Banner" style="border-radius: 20px; margin-top: 20px; box-shadow: 0 10px 40px rgba(0, 100, 200, 0.3);"/>
