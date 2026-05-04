@@ -2,9 +2,6 @@
 
 <h1 style="color: #0056b3; font-size: 2.5em; margin-bottom: 10px; font-weight: bold;">¡Hola, soy Dhilsen Mallqui! 👋</h1>
 
-<!-- Banner -->
-<img width="100%" src="Buho_Portada_Dhilsen.png" alt="DhilsenDev Banner" style="border-radius: 20px; margin-top: 20px; box-shadow: 0 10px 40px rgba(0, 100, 200, 0.3);"/>
-
 <div style="margin-top: 30px; line-height: 2.5;">
   
   <h3 style="color: #8B5CF6; margin: 10px 0; font-weight: 400;">🎓 Estudiante de Ingeniería de Software</h3>
