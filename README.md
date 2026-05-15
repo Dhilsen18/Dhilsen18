@@ -61,7 +61,7 @@ Soy estudiante de **Ingeniería de Software** en la **Universidad Peruana de Cie
 <div align="center">
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dhilsen18&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=EC4899&text_color=c4b5fd&rank_icon=github&count_private=true&include_all_commits=true" height="160" alt="GitHub Stats"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dhilsen18&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c4b5fd&langs_count=8" height="160" alt="Top Languages"/>
+<img src="https://skillicons.dev/icons?i=angular,react,tailwind,js,python,vue,ts,java,css&theme=dark&perline=5" alt="Top Languages"/>
 
 <br/>
 
