@@ -1,12 +1,15 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&lines=¡Hola%2C+soy+Dhilsen+Mallqui!+👋;Full+Stack+Developer+💻;Estudiante+de+Ingeniería+UPC+🎓;Bailarín+%26+Programador+🎭" alt="Typing SVG" />
-<br/>
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-8B5CF6?style=for-the-badge&labelColor=0d0d1a)](https://portfolioo-dhilsen.vercel.app)
+<!-- Typing animation - funciona en GitHub -->
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Dhilsen+Mallqui!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Estudiante+de+Ingenieria+UPC+%F0%9F%8E%93;Bailarin+%26+Programador+%F0%9F%8E%AD" alt="Typing SVG" />
+<br/><br/>
+ 
+<!-- Badges de roles - sin emojis en la URL -->
+![UPC](https://img.shields.io/badge/Ingenieria_de_Software-UPC-7C3AED?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQTEwIDEwIDAgMCAwIDIgMTJhMTAgMTAgMCAwIDAgMTAgMTAgMTAgMTAgMCAwIDAgMTAtMTBBMTAgMTAgMCAwIDAgMTIgMm0tMiAxNC41di05bDYgNC41LTYgNC41WiIvPjwvc3ZnPg==&labelColor=1e1b4b)
+![Dev](https://img.shields.io/badge/Full_Stack-Developer-EC4899?style=for-the-badge&logo=code&logoColor=white&labelColor=1e1b4b)
+![Lima](https://img.shields.io/badge/Lima-Peru-06B6D4?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1e1b4b)
  
 <br/>
-![Estudiante UPC](https://img.shields.io/badge/🎓_UPC-Ingeniería_de_Software-7C3AED?style=flat-square&labelColor=1e1b4b)
-![Full Stack](https://img.shields.io/badge/💻_Full_Stack-Developer-EC4899?style=flat-square&labelColor=1e1b4b)
-![Bailarín](https://img.shields.io/badge/🎭_Dancer-&_Coder-06B6D4?style=flat-square&labelColor=1e1b4b)
+[![Portfolio](https://img.shields.io/badge/Ver_Portfolio-portfolioo--dhilsen.vercel.app-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolioo-dhilsen.vercel.app)
  
 </div>
 ---
@@ -16,12 +19,12 @@
 ```javascript
 const dhilsen = {
   nombre:      "Dhilsen Mallqui",
-  ubicacion:   "Lima, Perú 🇵🇪",
-  universidad: "UPC — Ingeniería de Software",
+  ubicacion:   "Lima, Peru",
+  universidad: "UPC — Ingenieria de Software",
   rol:         "Full Stack Developer",
   pasiones:    ["Frontend", "UI/UX", "Arquitectura de Software"],
-  hobbies:     ["Programar 💻", "Bailar 🎭"],
-  frase:       "Cada movimiento cuenta, igual que cada línea de código."
+  hobbies:     ["Programar", "Bailar"],
+  frase:       "Cada movimiento cuenta, igual que cada linea de codigo."
 }
 ```
  
@@ -68,11 +71,10 @@ Soy estudiante de **Ingeniería de Software** en la **Universidad Peruana de Cie
 ## 📊 GitHub Stats
  
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dhilsen18&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=EC4899&text_color=c4b5fd&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhilsen18&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c4b5fd" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Dhilsen18&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=EC4899&text_color=c4b5fd" alt="GitHub Stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhilsen18&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c4b5fd" alt="Top Languages" />
 <br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dhilsen18&theme=midnight-purple&hide_border=true&background=0d1117&stroke=8B5CF6&ring=EC4899&fire=EC4899&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=94a3b8)](https://git.io/streak-stats)
- 
+<img src="https://streak-stats.demolab.com?user=Dhilsen18&theme=midnight-purple&hide_border=true&background=0d1117&stroke=8B5CF6&ring=EC4899&fire=EC4899&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=94a3b8" alt="GitHub Streak" />
 </div>
 ---
  
@@ -100,10 +102,9 @@ Soy estudiante de **Ingeniería de Software** en la **Universidad Peruana de Cie
  
 ---
  
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=500&color=8B5CF6&center=true&vCenter=true&width=480&lines=💡+%22El+código+es+poesía+escrita+en+lógica%22;🎭+Bailar+me+hizo+mejor+programador;🇵🇪+Lima%2C+Perú" alt="Quote" />
-<br/>
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Dhilsen18.Dhilsen18&left_color=8B5CF6&right_color=EC4899)
  
 ⭐️ From [Dhilsen18](https://github.com/Dhilsen18) with ❤️
  
 </div>
+ 
