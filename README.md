@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Dhilsen+Mallqui!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Estudiante+de+Ingenieria+UPC+%F0%9F%8E%93;Estudiante+%26+Programador+%F0%9F%8E%AD" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=3000&pause=1000&color=E53E3E&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Dhilsen+Mallqui!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Estudiante+de+Ingenieria+UPC+%F0%9F%8E%93;Estudiante+%26+Programador+%F0%9F%8E%AD" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://portfolioo-dhilsen.vercel.app">
-  <img src="https://img.shields.io/badge/Ver%20Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Ver%20Portfolio-E53E3E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Ingenieria%20de%20Software-UPC-7C3AED?style=for-the-badge&logoColor=white&labelColor=1e1b4b" alt="UPC"/>
-<img src="https://img.shields.io/badge/Full%20Stack-Developer-EC4899?style=for-the-badge&logoColor=white&labelColor=1e1b4b" alt="Dev"/>
-<img src="https://img.shields.io/badge/Lima-Peru-06B6D4?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1e1b4b" alt="Lima"/>
+<img src="https://img.shields.io/badge/Ingenieria%20de%20Software-UPC-C53030?style=for-the-badge&logoColor=white&labelColor=3D0000" alt="UPC"/>
+<img src="https://img.shields.io/badge/Full%20Stack-Developer-FC4F4F?style=for-the-badge&logoColor=white&labelColor=3D0000" alt="Dev"/>
+<img src="https://img.shields.io/badge/Lima-Peru-06B6D4?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=3D0000" alt="Lima"/>
 
 </div>
 
@@ -60,16 +60,16 @@ Soy estudiante de **Ingeniería de Software** en la **Universidad Peruana de Cie
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dhilsen18&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=EC4899&text_color=c4b5fd&rank_icon=github&count_private=true&include_all_commits=true" height="160" alt="GitHub Stats"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dhilsen18&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c4b5fd&langs_count=9&hide=html" height="160" alt="Top Languages"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dhilsen18&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=E53E3E&icon_color=FC4F4F&text_color=FEB2B2&rank_icon=github&count_private=true&include_all_commits=true" height="160" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dhilsen18&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=E53E3E&text_color=FEB2B2&langs_count=9&hide=html" height="160" alt="Top Languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Dhilsen18&theme=midnight-purple&hide_border=true&background=0d1117&stroke=8B5CF6&ring=EC4899&fire=EC4899&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=94a3b8&cache_seconds=86400" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Dhilsen18&theme=midnight-purple&hide_border=true&background=0d1117&stroke=E53E3E&ring=FC4F4F&fire=FC4F4F&currStreakLabel=E53E3E&sideLabels=E53E3E&dates=94a3b8&cache_seconds=86400" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhilsen18&bg_color=0d1117&color=c4b5fd&line=8B5CF6&point=EC4899&area=true&hide_border=true" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhilsen18&bg_color=0d1117&color=FEB2B2&line=E53E3E&point=FC4F4F&area=true&hide_border=true" alt="Activity Graph"/>
 
 </div>
 
@@ -86,7 +86,7 @@ Soy estudiante de **Ingeniería de Software** en la **Universidad Peruana de Cie
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://portfolioo-dhilsen.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-E53E3E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="mailto:dhilsenamv@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -116,7 +116,7 @@ Soy estudiante de **Ingeniería de Software** en la **Universidad Peruana de Cie
 
 ---
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Dhilsen18.Dhilsen18&left_color=8B5CF6&right_color=EC4899" alt="Visitors"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Dhilsen18.Dhilsen18&left_color=E53E3E&right_color=FC4F4F" alt="Visitors"/>
 
 ⭐️ From [Dhilsen18](https://github.com/Dhilsen18) with ❤️
 
