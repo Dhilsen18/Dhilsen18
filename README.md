@@ -79,11 +79,11 @@ Soy estudiante de **Ingeniería de Software** en la **Universidad Peruana de Cie
 
 ## 🏆 Trophies
 
-> ℹ️ Este widget lo genera un servicio gratuito (`github-profile-trophy`). A veces tarda unos segundos en cargar o se ve roto la primera vez — recarga la página de GitHub y debería aparecer. Una vez que esté en tu repo de perfil, GitHub lo cachea y carga normal.
+> ℹ️ El servicio original (`github-profile-trophy.vercel.app`) está caído por temas de facturación de quien lo mantiene — por eso no cargaba sin importar los parámetros. Lo cambié a un mirror de la comunidad que sí funciona.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dhilsen18&theme=dark&no-frame=true&row=2&column=4" alt="Trophies"/>
+<img src="https://github-trophies.vercel.app/?username=Dhilsen18&theme=onedark&no-frame=true&no-bg=true&row=2&column=4" alt="Trophies"/>
 
 </div>
 
