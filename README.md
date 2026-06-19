@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:742a2a,100:E53E3E&height=200&section=header&text=Dhilsen%20Mallqui&fontSize=42&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20UPC&descAlignY=56&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=3000&pause=1000&color=E53E3E&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Dhilsen+Mallqui!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Estudiante+de+Ingenieria+UPC+%F0%9F%8E%93;Estudiante+%26+Programador+%F0%9F%8E%AD" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=3000&pause=1000&color=E53E3E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Estudiante+de+Ingenieria+UPC+%F0%9F%8E%93;Estudiante+%26+Programador+%F0%9F%8E%AD" alt="Typing SVG" />
 
 <br/>
 
@@ -56,12 +56,6 @@ Soy estudiante de **Ingeniería de Software** en la **Universidad Peruana de Cie
 
 <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 
-<br/>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,js,ts,php,py,vue,react,angular,bootstrap,html,css,nodejs,spring,nestjs,mongodb,mysql,postgres&theme=dark" alt="Skill Icons"/>
-</div>
-
 ---
 
 ## 📊 GitHub Stats
@@ -85,15 +79,19 @@ Soy estudiante de **Ingeniería de Software** en la **Universidad Peruana de Cie
 
 ## 🏆 Trophies
 
+> ℹ️ Este widget lo genera un servicio gratuito (`github-profile-trophy`). A veces tarda unos segundos en cargar o se ve roto la primera vez — recarga la página de GitHub y debería aparecer. Una vez que esté en tu repo de perfil, GitHub lo cachea y carga normal.
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dhilsen18&theme=dark&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Dhilsen18&theme=dark&no-frame=true&row=2&column=4" alt="Trophies"/>
 
 </div>
 
 ---
 
 ## 🐍 Contribution Snake
+
+> ℹ️ Esta imagen se ve rota/no carga **hasta que actives el paso de abajo** (es normal, todavía no existe el archivo). En cuanto configures la Action una vez, se generará sola y empezará a animarse.
 
 <div align="center">
 
