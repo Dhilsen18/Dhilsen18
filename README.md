@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:742a2a,100:E53E3E&height=200&section=header&text=Dhilsen%20Mallqui&fontSize=42&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20UPC&descAlignY=56&descSize=18" width="100%"/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=3000&pause=1000&color=E53E3E&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Dhilsen+Mallqui!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Estudiante+de+Ingenieria+UPC+%F0%9F%8E%93;Estudiante+%26+Programador+%F0%9F%8E%AD" alt="Typing SVG" />
 
 <br/>
@@ -12,7 +14,7 @@
 
 <img src="https://img.shields.io/badge/Ingenieria%20de%20Software-UPC-C53030?style=for-the-badge&logoColor=white&labelColor=3D0000" alt="UPC"/>
 <img src="https://img.shields.io/badge/Full%20Stack-Developer-FC4F4F?style=for-the-badge&logoColor=white&labelColor=3D0000" alt="Dev"/>
-<img src="https://img.shields.io/badge/Lima-Peru-06B6D4?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=3D0000" alt="Lima"/>
+<img src="https://img.shields.io/badge/Lima-Peru-E53E3E?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=3D0000" alt="Lima"/>
 
 </div>
 
@@ -54,24 +56,96 @@ Soy estudiante de **Ingeniería de Software** en la **Universidad Peruana de Cie
 
 <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 
+<br/>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cpp,java,js,ts,php,py,vue,react,angular,bootstrap,html,css,nodejs,spring,nestjs,mongodb,mysql,postgres&theme=dark" alt="Skill Icons"/>
+</div>
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dhilsen18&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=E53E3E&icon_color=FC4F4F&text_color=FEB2B2&rank_icon=github&count_private=true&include_all_commits=true" height="160" alt="GitHub Stats"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dhilsen18&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=E53E3E&text_color=FEB2B2&langs_count=9&hide=html" height="160" alt="Top Languages"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dhilsen18&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=E53E3E&icon_color=FC4F4F&text_color=FEB2B2&ring_color=E53E3E&rank_icon=github&count_private=true&include_all_commits=true" height="160" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dhilsen18&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&title_color=E53E3E&text_color=FEB2B2&langs_count=9&hide=html" height="160" alt="Top Languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Dhilsen18&theme=midnight-purple&hide_border=true&background=0d1117&stroke=E53E3E&ring=FC4F4F&fire=FC4F4F&currStreakLabel=E53E3E&sideLabels=E53E3E&dates=94a3b8&cache_seconds=86400" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Dhilsen18&hide_border=true&background=0d1117&stroke=E53E3E&ring=FC4F4F&fire=FC4F4F&currStreakLabel=E53E3E&sideLabels=E53E3E&dates=94a3b8&currStreakNum=FFFFFF&sideNums=FEB2B2&cache_seconds=86400" alt="GitHub Streak"/>
 
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhilsen18&bg_color=0d1117&color=FEB2B2&line=E53E3E&point=FC4F4F&area=true&hide_border=true" alt="Activity Graph"/>
 
 </div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dhilsen18&theme=dark&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" alt="Trophies"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhilsen18/Dhilsen18/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhilsen18/Dhilsen18/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dhilsen18/Dhilsen18/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<details>
+<summary>⚙️ ¿Cómo activar esta animación? (un solo paso, una vez)</summary>
+
+<br/>
+
+Esta serpiente se genera sola a partir de tu calendario de contribuciones, pero necesita una GitHub Action en tu repo `Dhilsen18/Dhilsen18`. Crea el archivo `.github/workflows/snake.yml` con esto:
+
+```yaml
+name: generate animation
+on:
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: Dhilsen18
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Haz commit, espera a que corra la Action una vez, y la serpiente aparecerá sola en el README. 🐍
+
+</details>
 
 ---
 
@@ -119,5 +193,7 @@ Soy estudiante de **Ingeniería de Software** en la **Universidad Peruana de Cie
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Dhilsen18.Dhilsen18&left_color=E53E3E&right_color=FC4F4F" alt="Visitors"/>
 
 ⭐️ From [Dhilsen18](https://github.com/Dhilsen18) with ❤️
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:742a2a,100:E53E3E&height=120&section=footer" width="100%"/>
 
 </div>
