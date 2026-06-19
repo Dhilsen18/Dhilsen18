@@ -79,71 +79,11 @@ Soy estudiante de **Ingeniería de Software** en la **Universidad Peruana de Cie
 
 ## 🏆 Trophies
 
-> ℹ️ El servicio original (`github-profile-trophy.vercel.app`) está caído por temas de facturación de quien lo mantiene — por eso no cargaba sin importar los parámetros. Lo cambié a un mirror de la comunidad que sí funciona.
-
 <div align="center">
 
 <img src="https://github-trophies.vercel.app/?username=Dhilsen18&theme=onedark&no-frame=true&no-bg=true&row=2&column=4" alt="Trophies"/>
 
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-> ℹ️ Esta imagen se ve rota/no carga **hasta que actives el paso de abajo** (es normal, todavía no existe el archivo). En cuanto configures la Action una vez, se generará sola y empezará a animarse.
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhilsen18/Dhilsen18/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhilsen18/Dhilsen18/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dhilsen18/Dhilsen18/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-<details>
-<summary>⚙️ ¿Cómo activar esta animación? (un solo paso, una vez)</summary>
-
-<br/>
-
-Esta serpiente se genera sola a partir de tu calendario de contribuciones, pero necesita una GitHub Action en tu repo `Dhilsen18/Dhilsen18`. Crea el archivo `.github/workflows/snake.yml` con esto:
-
-```yaml
-name: generate animation
-on:
-  schedule:
-    - cron: "0 */24 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: Dhilsen18
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Haz commit, espera a que corra la Action una vez, y la serpiente aparecerá sola en el README. 🐍
-
-</details>
 
 ---
 
