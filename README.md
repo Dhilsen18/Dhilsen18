@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:742a2a,100:E53E3E&height=200&section=header&text=Dhilsen%20Mallqui&fontSize=42&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20UPC&descAlignY=56&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0001,25:3D0000,50:9B2C2C,75:E53E3E,100:FC4F4F&height=220&section=header&text=Dhilsen%20Mallqui&fontSize=46&fontColor=ffffff&fontAlignY=33&stroke=1a0000&strokeWidth=1&animation=twinkling&desc=Full%20Stack%20Developer%20%F0%9F%92%BB%20%7C%20UPC%20%F0%9F%8E%93%20%7C%20Bailar%C3%ADn%20%F0%9F%92%83&descAlignY=58&descSize=17" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=3000&pause=1000&color=E53E3E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Estudiante+de+Ingenieria+UPC+%F0%9F%8E%93;Estudiante+%26+Programador+%F0%9F%8E%AD" alt="Typing SVG" />
 
@@ -132,6 +132,6 @@ Soy estudiante de **Ingeniería de Software** en la **Universidad Peruana de Cie
 
 ⭐️ From [Dhilsen18](https://github.com/Dhilsen18) with ❤️
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:742a2a,100:E53E3E&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0001,25:3D0000,50:9B2C2C,75:E53E3E,100:FC4F4F&height=160&section=footer&reversal=true&animation=twinkling&text=Gracias%20por%20visitar!%20%E2%9C%A8&fontSize=22&fontColor=ffffff&fontAlignY=75&stroke=1a0000&strokeWidth=1" width="100%"/>
 
 </div>
